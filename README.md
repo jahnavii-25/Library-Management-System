@@ -37,7 +37,7 @@ Entities include:
 - **CARD**, **RENT**, **BRANCH**, **LOCATION**, and relationships like **WORK**, **SITUATED**
 
 *(ER Diagram image goes here)*  
-`/images/er_diagram.png](https://github.com/jahnavii-25/Library-Management-System/blob/main/ER%20DIAGRAM.jpg)`
+https://github.com/jahnavii-25/Library-Management-System/blob/main/ER%20DIAGRAM.jpg
 
 ---
 
